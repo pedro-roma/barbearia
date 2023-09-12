@@ -21,3 +21,7 @@ backgraund: #CCCCCC
 em strong{
  color: FF00000
 }
+
+.itens{
+   font-stayle: italic;
+}
